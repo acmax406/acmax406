@@ -28,5 +28,7 @@ into substantial deliverables.
 
 <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" alt="image" width="40" height="40" style="max-width: 100%;">
 
+<img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40" height="40" style="max-width: 100%;">
+ <img src="https://img.icons8.com/color/452/pandas.png" width="40" height="40" style="max-width: 100%;">
 
 </p>
