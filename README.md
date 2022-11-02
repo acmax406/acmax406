@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Anand Chauhan
 - 👀 I’m interested in data science and data engineering
 - 🌱 I’m currently completing my Undergraduate from Ashoka University in Computer Science.
-- 📫 achauhanvg@gmail.com
+- 📫 achauhanvg@gmail.com, anand.chauhan_ug23@ashoka.edu.in
 
 
 I am inclined towards learning good statistical skills while earning an experience that will help
@@ -40,6 +40,7 @@ into substantial deliverables.
  <img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png" width="40" height="40" style="max-width: 100%;">
 
  <img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_excel_icon_130611.png" width="40" height="40" style="max-width: 100%;">
- 
+ <img src= "https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png" width="40" height="40" style="max-width: 100%;">
 
+ 
 </p>
