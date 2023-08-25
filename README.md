@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Anand Chauhan
 - 👀 I’m interested in data science and data engineering
-- 🌱 I’m currently completing my Undergraduate from Ashoka University in Computer Science.
+- 🌱 I’m currently completing my Undergraduate from Ashoka University in Computer Science, Mathematics, Entrepreneurship
 - 📫 achauhanvg@gmail.com, anand.chauhan_asp24@ashoka.edu.in
 
 
