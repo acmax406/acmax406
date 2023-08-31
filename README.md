@@ -4,12 +4,7 @@
 - 📫 achauhanvg@gmail.com, anand.chauhan_asp24@ashoka.edu.in
 
 
-I am inclined towards learning good statistical skills while earning an experience that will help
- me grow as a professional in data science. I focus on effectively working with complex data as 
-well as acquiring interpersonal & communication skills.I am proficiet in data wrangling, 
-data visualisation, Web Scrapping, Data Mining algorithm. Capable of creating, developing, testing, 
-and deploying highly adaptive diverse services to translate business and functional qualifications 
-into substantial deliverables.
+Aspiring to advance my career in data science, I am committed to enhancing my statistical expertise while gaining practical experience. My focus lies in handling intricate data sets and honing interpersonal and communication skills. Proficient in data wrangling, data visualization, web scraping, and data mining algorithms, I possess the capability to develop and deploy diverse services that align with business objectives and deliver tangible results.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -30,7 +25,7 @@ into substantial deliverables.
 
 <img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://img.icons8.com/color/452/pandas.png" width="40" height="40" style="max-width: 100%;">
-<img src="https://caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png" width="40" height="40" style="max-width: 100%;">
+<!-- <img src="https://caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png" width="40" height="40" style="max-width: 100%;"> -->
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/512px-SCIPY_2.svg.png?20200904111722" width="40" height="40" style="max-width: 100%;">
 
