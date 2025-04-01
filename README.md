@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Anand Chauhan
 - 👀 I’m interested in data science and data engineering
-- 🌱 I’m currently completing my Undergraduate from Ashoka University in Computer Science, Mathematics, Entrepreneurship
-- 📫 achauhanvg@gmail.com, anand.chauhan_asp24@ashoka.edu.in
+- 🌱 Completed undergrad from Ashoka University in Computer Science, Mathematics, Entrepreneurship
+- 📫 achauhanvg@gmail.com
 
 
 Aspiring to advance my career in data science, I am committed to enhancing my statistical expertise while gaining practical experience. My focus lies in handling intricate data sets and honing interpersonal and communication skills. Proficient in data wrangling, data visualization, web scraping, and data mining algorithms, I possess the capability to develop and deploy diverse services that align with business objectives and deliver tangible results.
