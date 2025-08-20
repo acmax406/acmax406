@@ -35,7 +35,6 @@ Aspiring to advance my career in data science, I am committed to enhancing my st
  <img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png" width="40" height="40" style="max-width: 100%;">
 
  <img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_excel_icon_130611.png" width="40" height="40" style="max-width: 100%;">
- <img src= "https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png" width="40" height="40" style="max-width: 100%;">
 
  
 </p>
